@@ -85,8 +85,8 @@ tabungku_layout/
 ├── lib/
 │   └── main.dart
 ├── docs/
-│   ├── screenshot_hp.png
-│   └── screenshot_tablet.png
+│   ├── tampilan_handphone.png
+│   └── tampilan_tablet.png
 ├── pubspec.yaml
 └── README.md
 ```
